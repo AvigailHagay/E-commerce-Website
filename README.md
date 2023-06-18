@@ -5,7 +5,7 @@ Avigail Hagay
 
 # Explanations
 
-# Project Overview
+## Project Overview
 
 This project is a modern e-commerce website built using React and Spring. It allows customers to browse movies, add them to a cart, and complete a purchase (no actual payment) without the need for registration. The website utilizes the TMDB API (The Movie Database) to browse movie products.
 
