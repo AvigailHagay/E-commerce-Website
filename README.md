@@ -1,9 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7Tmn2VQK)
 
-# Authors
-Avigail Hagay: avigilha@edu.hac.ac.il, 318201688
-
-Racheli Benchamo: rachelbenha@edu.hac.ac.il, 209179738
+# Author
+Avigail Hagay
 
 # Explanations
 
